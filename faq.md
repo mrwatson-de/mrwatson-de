@@ -32,30 +32,30 @@ On the other hand, if you want to join in helping develop the code...
 
 You can help MrWatson help us all to have better tools!
 
-- ▶️ use the tools
-- 📣 shout about it!
-  - share / promote the tools
-  - share your experiences and enthusiasm
+- ▶️ Use the tools
+- 📣 Shout about it!
+  - Share / promote the tools
+  - Share your experiences and enthusiasm
     - with your friends, colleagues, boss, other FileMaker developers, with Claris even!
-  - share IRL / on social media / on twitter / on TV (:D)
-- 🗣 join the discussion
+  - Share IRL / on social media / on twitter / on TV (:D)
+- 🗣 Join the discussion
   - [fmWorkMate discussions](https://github.com/mrwatson-de/fmWorkMate/discussions)
-- 🚦give feedback
-  - on the repository's issues tab you can post bugs, ideas, wishes and questions
-  - [drop me a line][drop me a line]
-- 📖 help document
+- 🚦Give feedback
+  - On the repository's issues tab you can post bugs, ideas, wishes and questions
+  - [Drop me a line][Drop me a line]
+- 📖 Help document
   - If you have used a tool successfully, please feel free to submit documentation or publish a screen video
   - If you are good at writing documentation, please do!
-- 📲 contribute code
-  - see below
-- 💰donate funds
+- 📲 Contribute code
+  - See below
+- 💰Donate funds
   - MrWatson's tools are free
   - The tools are however not without development and running costs
   - So, every donation is extremly welcome, and fantastic for morale! :D
   - [Donate here](https://fmworkmate.com/donate)
-- ⏱ donate time
+- ⏱ Donate time
   - Want to help in some other way?
-  - [drop me a line][drop me a line]
+  - [Drop me a line][Drop me a line]
 
 
 ## Using Git / GitHub Desktop to contribute...
@@ -91,15 +91,14 @@ Do this if you want to contribute changes back to the project.
     - a folder in my documents folder, where I put all my GitHub projects `~/Documents/Git/<repositoryname>`
   - If you are using the git command line, good luck!
 
+> Note: Since FileMaker files change every time you open them:
+>  - I tend to copy the FileMaker file(s) to another directory before opening them
+>  - I only copy them back to the repo folder if I have really changed them and want to synchronise the changes back to GitHub
+>  - Like that you avoid commiting the FileMaker file back to the repo when no code has actually changed
 
-Since FileMaker files change every time you open them:
-  - I tend to copy the FileMaker file(s) to another directory, and
-  - only copy them back to the repo folder if I have really changed them and want to synchronise the changes back to GitHub
-
-
-- make changes
-- copy the FileMaker files back to the repo folder
-- make a Pull Request
+- Make changes
+- Copy the FileMaker files back to the repo folder
+- Make a Pull Request
 
 We'll see how it goes from there! 😉
 
@@ -125,4 +124,4 @@ Me:
 
 
 
-[drop me a line]:http://fmworkmate.com/contact-impressum
+[Drop me a line]:http://fmworkmate.com/contact-impressum
