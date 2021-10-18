@@ -1,6 +1,6 @@
 # Frequently Asked Questions
 
-Newcomers to GitHub may feel a little confused or overwehlmed by the release, download and other forking possibilities available, so here is a little help
+Newcomers to GitHub may feel a little confused or overwehlmed by the release, code download, clone and other forking possibilities available, so here is a little help
 
 ## First up: what's a repository?
 
