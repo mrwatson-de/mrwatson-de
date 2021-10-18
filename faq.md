@@ -42,9 +42,19 @@ You can help MrWatson help us all to have better tools!
   - [fmWorkMate discussions](https://github.com/mrwatson-de/fmWorkMate/discussions)
 - give feedback
   - on the repository's issues tab you can post bugs, ideas, wishes and questions
-  - drop me a line
+  - [drop me a line][drop me a line]
 - help document
-  - 
+  - If you have used a tool successfully, please feel free to submit documentation or publish a screen video
+  - If you are good at writing documentation, please do!
+- contribute code
+  - see below
+- donate €
+  - MrWatson's tools are free
+  - The tools are however not without development and running costs
+  - Every donation is thus extremly welcome, and fantastic for morale! :D
+- donate time
+  - Want to help in some other way?
+  - [drop me a line][drop me a line]
 
 
 
@@ -110,4 +120,9 @@ Me:
 - [MrWatson on twitter](https://twitter.com/mrwatson_de)
 - [MrWatson on LinkedIn](https://www.linkedin.com/in/russell-watson-68633789/)
 - [MrWatson's slack room](https://mrwatson-de.slack.com)
-- and, of course, you can mail me, russell, at [mrwatson.de](https://www.mrwatson.de)
+- and you can, of course, [drop me a line][drop me a line]
+
+
+
+
+[drop me a line]:http://mrwatson.de/contact-impressum
