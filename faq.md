@@ -32,7 +32,7 @@ On the other hand, if you want to join in helping develop the code...
 
 You can help MrWatson help us all to have better tools!
 
-- use the tools
+- ▶️ use the tools
 - 📣 shout about it!
   - share / promote the tools
   - share your experiences and enthusiasm
@@ -56,7 +56,6 @@ You can help MrWatson help us all to have better tools!
 - ⏱ donate time
   - Want to help in some other way?
   - [drop me a line][drop me a line]
-
 
 
 ## Using Git / GitHub Desktop to contribute...
