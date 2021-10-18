@@ -33,26 +33,27 @@ On the other hand, if you want to join in helping develop the code...
 You can help MrWatson help us all to have better tools!
 
 - use the tools
-- shout about it!
+- 📣 shout about it!
   - share / promote the tools
   - share your experiences and enthusiasm
     - with your friends, colleagues, boss, other FileMaker developers, with Claris even!
   - share IRL / on social media / on twitter / on TV (:D)
-- join the discussion
+- 🗣 join the discussion
   - [fmWorkMate discussions](https://github.com/mrwatson-de/fmWorkMate/discussions)
-- give feedback
+- 🚦give feedback
   - on the repository's issues tab you can post bugs, ideas, wishes and questions
   - [drop me a line][drop me a line]
-- help document
+- 📖 help document
   - If you have used a tool successfully, please feel free to submit documentation or publish a screen video
   - If you are good at writing documentation, please do!
-- contribute code
+- 📲 contribute code
   - see below
-- donate €
+- 💰donate funds
   - MrWatson's tools are free
   - The tools are however not without development and running costs
-  - Every donation is thus extremly welcome, and fantastic for morale! :D
-- donate time
+  - So, every donation is extremly welcome, and fantastic for morale! :D
+  - [Donate here](https://fmworkmate.com/donate)
+- ⏱ donate time
   - Want to help in some other way?
   - [drop me a line][drop me a line]
 
